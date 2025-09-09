@@ -142,25 +142,24 @@ content:
     content:
       - layout: center
         title: "<div style='font-size:0.9em;'>Research Intern</div>"
-        sub_title: <a href="https://langlab.yonsei.ac.kr/" target="_blank">Convei Lab</a> in Yonsei University
         caption: July - September 2023
         quote: >
           멀티소스 대화 챗봇 연구 수행<br>
-          Research on Multi-Source Conversational Chatbots
+          Research on Multi-Source Conversational Chatbots<br>
+          <a href="https://langlab.yonsei.ac.kr/" target="_blank">Convei Lab</a> in Yonsei University
       - layout: center
         title: "<div style='font-size:0.9em;'>Research Intern</div>"
-        sub_title: Jeju University
         caption: April - June 2023
         quote: >
           뉴스 크롤링 및 토픽 모델링 수행<br>
-          Worked on News Crawling and Topic Modeling
+          Worked on News Crawling and Topic Modeling, Jeju University
       - layout: center
         title: "<div style='font-size:0.9em;'>Research Intern</div>"
-        sub_title: <a href="https://sites.google.com/aicampus.cau.ac.kr/dsl" target="_blank">Data Science Lab</a> in Chung-Ang University
         caption: March 2021 - March 2023
         quote: >
           가짜 뉴스 탐지 및 문장 분리 기술 연구 수행<br>
-          Research on Fake News Detection and Sentence Segmentation
+          Research on Fake News Detection and Sentence Segmentation<br>
+          <a href="https://sites.google.com/aicampus.cau.ac.kr/dsl" target="_blank">Data Science Lab</a> in Chung-Ang University
   
 
   - title: 
