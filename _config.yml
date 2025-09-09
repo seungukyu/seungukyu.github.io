@@ -61,7 +61,7 @@ content:
         link: # https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>link will be updated soon</div>"
         quote: >
-          EMNLP 2025 findings (first author)
+          🇨🇳 EMNLP 2025 findings (first author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
@@ -69,7 +69,7 @@ content:
         link: https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-          ACL 2025 main conference (first author)
+          🇦🇹 ACL 2025 main conference (first author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
@@ -77,7 +77,7 @@ content:
         link: https://aclanthology.org/2025.acl-srw.29/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-          ACL 2025 student research workshop (first author)
+          🇦🇹 ACL 2025 student research workshop (first author)
         # description: | # this will include new lines to allow paragraphs
 
       - layout: top-middle
@@ -85,7 +85,7 @@ content:
         link: https://aclanthology.org/2024.emnlp-main.1/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-          EMNLP 2024 main (third author)
+          🇺🇸 EMNLP 2024 main (third author)
         # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
@@ -93,7 +93,7 @@ content:
         link: https://aclanthology.org/2024.findings-naacl.219/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-          NAACL 2024 findings (first author)
+         🇲🇽 NAACL 2024 findings (first author)
         # description: | # this will include new lines to allow paragraphs
           
 
@@ -131,7 +131,8 @@ content:
         quote: >
           중앙대학교 소프트웨어학부 졸업<br>
           교내 인공지능 학회 CUAI 3,4기 운영<br>
-          Department of Computer Science & Engineering, Chung-Ang University
+          Department of Computer Science & Engineering, Chung-Ang University<br>
+          Led Operations for CUAI, the Campus AI Club for its 3rd and 4rd Terms
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
@@ -140,27 +141,85 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
+        title: "<div style='font-size:0.9em;'>Research Intern</div>"
+        sub_title: <a href="https://langlab.yonsei.ac.kr/" target="_blank">Convei Lab</a> in Yonsei University
+        caption: July - September 2023
+        quote: >
+          멀티소스 대화 챗봇 연구 수행<br>
+          Research on Multi-Source Conversational Chatbots
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Research Intern</div>"
+        sub_title: Jeju University
+        caption: April - June 2023
+        quote: >
+          뉴스 크롤링 및 토픽 모델링 수행<br>
+          Worked on News Crawling and Topic Modeling
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Research Intern</div>"
+        sub_title: <a href="https://sites.google.com/aicampus.cau.ac.kr/dsl" target="_blank">Data Science Lab</a> in Chung-Ang University
+        caption: March 2021 - March 2023
+        quote: >
+          가짜 뉴스 탐지 및 문장 분리 기술 연구 수행<br>
+          Research on Fake News Detection and Sentence Segmentation
+  
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: center
         title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
         caption: July 2025
-        # sub_title: BSc Computer Science
         quote: >
           KAIST IDEC 자연어처리 과목 실습 조교 근무<br>
           TA for NLP Sessions at KAIST IDEC
       - layout: center
         title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
-        caption: April 2023 - September 2023
-        # sub_title: BSc Computer Science
+        caption: March - June 2025
+        quote: >
+          중앙대학교 소프트웨어학부 과목 오픈소스와SW프로젝트 조교 근무<br>
+          TA for NLP Sessions at KAIST IDEC
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
+        caption: April and September 2023
         quote: >
           중앙대학교 군AI 교육 과정 실습 조교 근무<br>
-          TA for the Military AI Training Program at Chung-Ang University
+          TA for the Military AI Training Program at CAU
       - layout: center
         title: "<div style='font-size:0.9em;'>Teaching Coach</div>"
         caption: May and October 2021
-        # sub_title: BSc Computer Science
         quote: >
           주식회사 앨리스 AI 트랙 4,5기 자연어처리 멘토로서 강의 진행<br>
           NLP Mentor for Alice's AI Track 4th and 5th
-        
+
+
+  - title: 
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Best Project Award</div>"
+        caption: September 2025
+        quote: >
+          중앙대학교 AI기술 창업경진대회 장려상 수상<br>
+          Awarded at the AI Technology Startup Competition at CAU
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Best Paper Award</div>"
+        caption: June 2023
+        quote: >
+          대한전자공학회 우수학생논문상 수상<br>
+          Awarded at the Institute of Electronics and Information Engineers (IEIE)
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Best Project Award</div>"
+        caption: December 2021
+        quote: >
+          과학기술정보통신부 Open API Contest 한국전자통신연구원장상 수상<br>
+          Awarded at the National AI Research Institute, ETRI
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Best Project Award</div>"
+        caption: October 2021
+        quote: >
+          KB국민은행 제3회 Future Finance A.I. Challenge 전국 상위 10개 팀으로 본선 진출<br>
+          Advanced to the Final Competition, ranking among the Top 10 Teams Nationwide
+
          
   - title: 
     layout: text
@@ -170,6 +229,7 @@ content:
       - [Overwatch](https://overwatch.blizzard.com/ko-kr/)
       - Collecting [ShinChan](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%B1%EA%B5%AC)
       - Food Fighting
+
 
 # Footer
 footer_show_references: true
