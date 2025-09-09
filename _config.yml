@@ -1,6 +1,7 @@
+
 # Site
 repository: sproogen/resume-theme
-favicon: images/favicon.ico
+favicon: images/favicon
 
 # Content configuration version
 version: 2
@@ -15,25 +16,14 @@ email: seungukyu@gmail.com
 darkmode: never
 
 # Social links
-# twitter_username: facespics
-github_username:  seungukyu
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jameswgrant
+github_username: seungukyu
 linkedin_username: seungukyu
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+# additional_links:
+# - title: itsgoingto.be
+#   icon: fas fa-globe
+#   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,70 +35,125 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title:   
+about_profile_image: images/seunguk_selfie.jpg
 about_content: | # this will include new lines to allow paragraphs
-  자연어처리를 연구하는 박사 과정 유승욱이라고 합니다. Offensive Language, LLM Safety 등에 관심이 있으며 한국어를 포함한 어떤 태스크든 큰 관심이 있습니다.
+  자연어처리를 연구하는 박사 과정 유승욱입니다. Offensive Language 및 LLM Safety를 주로 수행해왔으며, 한국어를 사용하는 어떠한 자연어처리 태스크든 모두 큰 관심을 가지고 있습니다.
+
+  I'm Seunguk Yu, a Ph.D. student working on natural language processing. My main focus has been on offensive language and LLM safety, and I'm really interested in any NLP task involving Korean language.
+
+  ⚠️ 박사 과정 수료 후 (2027년 이후) 박사 후 전문연구요원 편입을 희망합니다. 폭넓은 자연어처리 태스크를 깊이 있게 탐구할 준비가 되어 있습니다.
 
 content:
-  - title: Papers # Title for the section
+  - title:   
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Langauge Models
-        # link: github.com/sproogen
-        # link_text: Project Website
-        #additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: "<div style='font-size:0.8em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</div>"
+        link: https://aclanthology.org/2025.acl-long.15/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-          ACL 2025 main conference, First Author
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          EMNLP 2025 findings (first author)
+        # description: | # this will include new lines to allow paragraphs
+          
+      - layout: top-middle
+        title: "<div style='font-size:0.8em; margin:0;'>Delving into Multilingual Ethical Bias: The MSQAD with Statistical Hypothesis Tests for Large Language Models</div>"
+        link: https://aclanthology.org/2025.acl-long.15/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
+        quote: >
+          ACL 2025 main conference (first author)
+        # description: | # this will include new lines to allow paragraphs
+          
+      - layout: top-middle
+        title: "<div style='font-size:0.8em; margin:0;'>Making Sense of Korean Sentences: A Comprehensive Evaluation of LLMs through KoSEnd Dataset</div>"
+        link: https://aclanthology.org/2025.acl-srw.29/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
+        quote: >
+          ACL 2025 student research workshop (first author)
+        # description: | # this will include new lines to allow paragraphs
+          
+      - layout: top-middle
+        title: "<div style='font-size:0.8em; margin:0;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</div>"
+        link: https://aclanthology.org/2024.findings-naacl.219/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
+        quote: >
+          NAACL 2024 findings (first author)
+        # description: | # this will include new lines to allow paragraphs
+          
 
-  - title: Experience # Title for the section
+  - title: 
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Ph.D. Student</div>"
+        # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
+        # sub_title: Senior Network System Administrator
+        caption: March 2025 - Present
         quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          중앙대학교 AI대학원 소속 박사 과정<br>
+          <a href="https://sites.google.com/view/iiplcau/home" target="_blank">Intelligent Information Processing Lab</a>, Department of Artificial Intelligence, Chung-Ang University
+        # description: | # this will include new lines to allow paragraphs
+        #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - layout: center
+        title: "<div style='font-size:0.9em;'>M.S. Student</div>"
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: March 2023 - February 2025
+        quote: >
+          중앙대학교 AI대학원 석사 졸업<br>
+          <a href="https://sites.google.com/view/iiplcau/home" target="_blank">Intelligent Information Processing Lab</a>, Department of Artificial Intelligence, Chung-Ang University
+        # description: | # this will include new lines to allow paragraphs
+        #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+      - layout: center
+        title: "<div style='font-size:0.9em;'>B.S. Student</div>"
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        # sub_title: Senior Network System Administrator
+        caption: March 2019 - February 2023
+        quote: >
+          중앙대학교 소프트웨어학부 졸업<br>
+          교내 인공지능 학회 CUAI 3,4기 운영<br>
+          Department of Computer Science & Engineering, Chung-Ang University
+        # description: | # this will include new lines to allow paragraphs
+        #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
 
-  - title: Education # Title for the section
+
+  - title: 
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
+        caption: July 2025
+        # sub_title: BSc Computer Science
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
-        description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
+          KAIST IDEC 자연어처리 과목 실습 조교 근무<br>
+          TA for NLP Sessions at KAIST IDEC
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
+        caption: April 2023 - September 2023
+        # sub_title: BSc Computer Science
+        quote: >
+          중앙대학교 군AI 교육 과정 실습 조교 근무<br>
+          TA for the Military AI Training Program at Chung-Ang University
+      - layout: center
+        title: "<div style='font-size:0.9em;'>Teaching Coach</div>"
+        caption: May and October 2021
+        # sub_title: BSc Computer Science
+        quote: >
+          주식회사 앨리스 AI 트랙 4,5기 자연어처리 멘토로서 강의 진행<br>
+          NLP Mentor for Alice's AI Track 4th and 5th
+        
+         
+  - title: 
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      Alongside my interests in NLP some of my other interests and hobbies are:
+      - Workout
+      - Overwatch
+      - Collecting [ShinChan](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%B1%EA%B5%AC)
+      - Food Fighting
 
 # Footer
 footer_show_references: true
