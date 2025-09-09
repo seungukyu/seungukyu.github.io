@@ -93,7 +93,7 @@ content:
         link: https://aclanthology.org/2024.findings-naacl.219/
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
-         🇲🇽 NAACL 2024 findings (first author)
+          🇲🇽 NAACL 2024 findings (first author)
         # description: | # this will include new lines to allow paragraphs
           
 
@@ -177,7 +177,7 @@ content:
         caption: March - June 2025
         quote: >
           중앙대학교 소프트웨어학부 과목 오픈소스와SW프로젝트 조교 근무<br>
-          TA for NLP Sessions at KAIST IDEC
+          TA for the Open Source and Software Project, Department of Software at CAU
       - layout: center
         title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
         caption: April and September 2023
