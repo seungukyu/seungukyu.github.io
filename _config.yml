@@ -71,6 +71,14 @@ content:
         quote: >
           ACL 2025 student research workshop (first author)
         # description: | # this will include new lines to allow paragraphs
+
+      - layout: top-middle
+        title: "<div style='font-size:0.8em; margin:0;'>UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation</div>"
+        link: https://aclanthology.org/2024.emnlp-main.1/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
+        quote: >
+          EMNLP 2024 main (third author)
+        # description: | # this will include new lines to allow paragraphs
           
       - layout: top-middle
         title: "<div style='font-size:0.8em; margin:0;'>Don't be a Fool: Pooling Strategies in Offensive Language Detection from User-Intended Adversarial Attacks</div>"
