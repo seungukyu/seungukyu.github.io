@@ -189,8 +189,8 @@ content:
         title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
         caption: July 2025
         quote: >
-          KAIST IDEC 자연어처리 과목 실습 조교 근무<br>
-          TA for NLP Sessions at KAIST IDEC
+          KAIST IDEC 자연어처리 과목 실습 조교 근무<br> 
+          TA for NLP Sessions at <a href="https://www.idec.or.kr/main/" target="_blank">KAIST IDEC</a>
       - layout: center
         title: "<div style='font-size:0.9em;'>Teaching Assistant</div>"
         caption: March - June 2025
@@ -208,8 +208,7 @@ content:
         caption: May and October 2021
         quote: >
           주식회사 앨리스 AI 트랙 4,5기 자연어처리 멘토로서 강의 진행<br>
-          NLP Mentor for Alice's AI Track 4th and 5th
-
+          NLP Mentor for <a href="https://elice.training/" target="_blank">Alice's AI Track</a> 4th and 5th
 
   - title: 
     layout: list # Type of content section (list/text)
