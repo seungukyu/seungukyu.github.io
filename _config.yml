@@ -113,7 +113,7 @@ content:
         # description: | # this will include new lines to allow paragraphs
 
       - layout: top-middle
-        title: "<div style='font-size:0.8em; margin:0;'>Korean voice phishing detection applying NER with key tags and sentence-level N-Gram</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>Korean Voice Phishing Detection Applying NER With Key Tags and Sentence-Level N-Gram</div>"
         link: https://ieeexplore.ieee.org/abstract/document/10496052
         link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
