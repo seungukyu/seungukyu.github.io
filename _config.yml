@@ -38,28 +38,36 @@ linkedin_username: seungukyu
 about_title:   
 about_profile_image: images/seunguk_selfie.jpg
 about_content: | # this will include new lines to allow paragraphs
-  자연어처리를 연구하는 박사 과정 유승욱입니다. Offensive Language 및 LLM Safety를 주로 수행해왔으며, 한국어를 사용하는 어떠한 자연어처리 태스크든 모두 큰 관심을 가지고 있습니다.
+  자연어처리를 연구하는 박사 과정 유승욱입니다. Hate Speech, Safety, Multi-Agent, Multilingual 등을 주로 수행해왔으며, 한국어를 사용하는 어떠한 자연어처리 태스크든 모두 큰 관심을 가지고 있습니다.
 
-  I'm Seunguk Yu, a Ph.D. student working on natural language processing. My main focus has been on offensive language and LLM safety, and I'm really interested in any NLP task involving Korean language.
+  I'm Seunguk Yu, a Ph.D. student working on natural language processing. My main focus has been on Hate Speech, Safety, Multi-Agent, and Multilingual, and I'm really interested in any NLP tasks involving Korean language.
 
-  ⚠️ 박사 과정 수료 후 (2027년 이후) 박사 후 전문연구요원 편입을 희망합니다. 폭넓은 자연어처리 태스크를 깊이 있게 탐구할 준비가 되어 있습니다.
+  🙌 박사 과정 수료 후 (2027년 이후) 박사 후 전문연구요원 편입을 희망합니다. 폭넓은 자연어처리 태스크를 깊이 있게 탐구할 준비가 되어 있습니다.
 
 content:
   - title:   
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: "<div style='font-size:0.8em; margin:0;'>When the Model Stumbles in Your Domain: Exploring Factual Hallucinations within a Cross-Domain Framework</div>"
+        title: "<div style='font-size:0.8em; margin:0;'>Think Before Translate: Pre-Task Conditioning for Domain-Aware Machine Translation</div>"
         link: # https://aclanthology.org/2025.acl-long.15/
         link_text: "<div style='font-size:0.8em; margin:0;'>link will be updated soon</div>"
         quote: >
-          AAAI 2026 under review (1st author)
+          COLM 2026 under review (1st author)
+        # description: | # this will include new lines to allow paragraphs
+
+      - layout: top-middle
+        title: "<div style='font-size:0.8em; margin:0;'>Steering LLMs toward Korean Local Speech: Iterative Refinement Framework for Faithful Dialect Translation</div>"
+        link: https://arxiv.org/abs/2511.06680
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
+        quote: >
+          🇪🇸 LREC 2026 (2nd author)
         # description: | # this will include new lines to allow paragraphs
     
       - layout: top-middle
         title: "<div style='font-size:0.8em; margin:0;'>From Ground Trust to Truth: Disparities in Offensive Language Judgments on Contemporary Korean Political Discourse</div>"
-        link: # https://aclanthology.org/2025.acl-long.15/
-        link_text: "<div style='font-size:0.8em; margin:0;'>link will be updated soon</div>"
+        link: https://aclanthology.org/2025.findings-emnlp.1199/
+        link_text: "<div style='font-size:0.8em; margin:0;'>Paper Website</div>"
         quote: >
           🇨🇳 EMNLP 2025 findings (1st author)
         # description: | # this will include new lines to allow paragraphs
@@ -115,7 +123,7 @@ content:
         # sub_title: Senior Network System Administrator
         caption: March 2025 - Present
         quote: >
-          중앙대학교 AI대학원 소속 박사 과정<br>
+          중앙대학교 AI학과 박사 과정<br>
           <a href="https://sites.google.com/view/iiplcau/home" target="_blank">Intelligent Information Processing Lab</a>, Department of Artificial Intelligence, Chung-Ang University
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
@@ -126,7 +134,7 @@ content:
         # sub_title: Senior Network System Administrator
         caption: March 2023 - February 2025
         quote: >
-          중앙대학교 AI대학원 석사 졸업<br>
+          중앙대학교 AI학과 석사 졸업<br>
           <a href="https://sites.google.com/view/iiplcau/home" target="_blank">Intelligent Information Processing Lab</a>, Department of Artificial Intelligence, Chung-Ang University
         # description: | # this will include new lines to allow paragraphs
         #     Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
@@ -203,6 +211,12 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: center
+        title: "<div style='font-size:0.9em;'>Scholarship Award</div>"
+        caption: November 2025
+        quote: >
+          AI 서울테크 대학원 박사 과정 장학생으로 선정<br>
+          Awarded the AI SeoulTech Graduate School Ph.D. Scholarship
+      - layout: center
         title: "<div style='font-size:0.9em;'>Best Project Award</div>"
         caption: September 2025
         quote: >
@@ -212,7 +226,7 @@ content:
         title: "<div style='font-size:0.9em;'>Best Paper Award</div>"
         caption: June 2023
         quote: >
-          대한전자공학회 우수학생논문상 수상<br>
+          대한전자공학회 [우수학생논문상](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11522812) 수상<br>
           Awarded at the Institute of Electronics and Information Engineers (IEIE)
       - layout: center
         title: "<div style='font-size:0.9em;'>Best Project Award</div>"
@@ -233,7 +247,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in NLP some of my other interests and hobbies are:
       - Workout
-      - [Overwatch](https://overwatch.blizzard.com/ko-kr/)
+      - [Overwatch](https://overwatch.blizzard.com/ko-kr/) and [MapleStory](https://maplestory.nexon.com/promotion/event/2026/20260618/intro)
       - Collecting [ShinChan](https://ko.wikipedia.org/wiki/%EC%8B%A0%EC%A7%B1%EA%B5%AC)
       - Food Fighting
 
